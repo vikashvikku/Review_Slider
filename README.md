@@ -1,1 +1,1 @@
-# react-projects-7-slider
+# Review Slider
