@@ -1,1 +1,2 @@
-# react-projects-7-slider
+# Review Slider
+## App Link :- https://review-slider-dusky.vercel.app/ 
